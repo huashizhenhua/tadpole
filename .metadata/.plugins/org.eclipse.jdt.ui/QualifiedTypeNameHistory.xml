@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.view.ViewGroup"/>
+<fullyQualifiedTypeName name="android.widget.TextView.SavedState"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="org.tadpole.util.LogUtil"/>
+<fullyQualifiedTypeName name="com.example.tadpole.ViewGroupTst"/>
+<fullyQualifiedTypeName name="android.graphics.Color"/>
+<fullyQualifiedTypeName name="android.widget.Scroller"/>
+<fullyQualifiedTypeName name="android.view.MotionEvent"/>
+<fullyQualifiedTypeName name="android.view.View.MeasureSpec"/>
+<fullyQualifiedTypeName name="android.view.ViewGroup.LayoutParams"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="org.tadpole.util.TadpoleLog"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="android.app.Service"/>
+<fullyQualifiedTypeName name="android.view.WindowManager"/>
+<fullyQualifiedTypeName name="android.view.Display"/>
+</qualifiedTypeNameHistroy>
