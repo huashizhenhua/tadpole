@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    
+    <org.tadpole.widget.PagedView
+	        android:id="@+id/page_view_board"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:background="#333333"/>
+
+    <!-- 
+    <org.tadpole.widget.PageIndicator
+		android:id="@+id/page_indicator_prev"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="bottom|left"
+		android:paddingBottom="10dp"
+		android:paddingRight="15dp"
+		android:paddingTop="25dp"
+		android:paddingLeft="15dp"
+		greendroid:dotType="multiple"
+		greendroid:gravity="left" />
+		 -->
+    
+</RelativeLayout>
